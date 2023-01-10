@@ -1,11 +1,7 @@
 ﻿using MediaCaptureWPF.Native;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Interop;
-using System.Windows.Media;
 using Windows.Media;
 using Windows.Media.Capture;
 using Windows.Media.MediaProperties;
